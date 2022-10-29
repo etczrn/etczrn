@@ -8,7 +8,7 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2051%20mins-blue)
 
 **I'm a Night 🦉** 
 
